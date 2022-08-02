@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 519314704,
+      "name": "App-de-Cartao-de-Visitas",
+      "owner": {
+        "login": "pedrobernardo27",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104027175?v=4"
+      },
+      "stargazers_count": 0,
+      "description": "ACriação de app de cartão de visitas.",
+      "language": "Java",
+      "html_url": "https://avatars.githubusercontent.com/u/104027175?v=4"
+    },
+    {
+      "id": 520514791,
+      "name": "App-Repository-2.0",
+      "owner": {
+        "login": "pedrobernardo27",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104027175?v=4"
+      },
+      "html_url": "https://github.com/pedrobernardo27/App-Repository-2.0",
+      "description": "Criação de app de repositórios do git",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 81223601,
+      "name": "android-DocumentCentricApps",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
+      "description": "description"
+    },
+    {
+      "id": 178429138,
+      "name": "android-guidelines",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/android-guidelines",
+      "description": "Architecture and code guidelines we use at ribot when developing for Android",
+      "stargazers_count": 0,
+      "language": "guideline"
+    }
+  ]
+}
